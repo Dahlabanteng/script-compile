@@ -6,7 +6,7 @@
 # init
 WORK_DIR=$(pwd)
 ANYKERNEL="${WORK_DIR}/anykernel"
-ANYKERNEL_REPO="https://github.com/sirnewbies/Anykernel3.git" 
+ANYKERNEL_REPO="https://github.com/Dahlabanteng/Anykernel3.git" 
 ANYKERNEL_BRANCH="kiwi"
 KERNEL_DIR="kiwi"
 
