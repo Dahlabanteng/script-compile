@@ -7,14 +7,14 @@
 WORK_DIR=$(pwd)
 ANYKERNEL="${WORK_DIR}/anykernel"
 ANYKERNEL_REPO="https://github.com/sirnewbies/Anykernel3.git" 
-ANYKERNEL_BRANCH="topaz"
-KERNEL_DIR="topaz"
+ANYKERNEL_BRANCH="kiwi"
+KERNEL_DIR="kiwi"
 
 # VERSIONING
 KSU="ksu"
 NKSU="non-ksu"
 REL="v1.6"
-KERNEL="QuantumCharge-topaz-tapas-xun-$REL-$KSU"
+KERNEL="Casrom_5.10 Ghost [KSU] by GhsotSpectrum-$REL-$KSU"
 ZIPNAME=$KERNEL.zip
 KERN_IMG=$WORK_DIR/out/android13-5.15/dist/Image
 
